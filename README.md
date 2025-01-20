@@ -4,7 +4,7 @@
 PARTE I (Trabajo Individual).
 Crea un repositorio localmente.
 
-![Logo](Assets//creacion_local.png.png)
+![Logo](Assets//creacion_local.png)
 
 Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
