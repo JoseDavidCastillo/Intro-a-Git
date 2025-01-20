@@ -21,3 +21,5 @@ Configura el repositorio local con el repositorio remoto.
 ![Logo](Assets/configuracion_2.png)
 
 Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+
+![Logo](Assets/update.png)
